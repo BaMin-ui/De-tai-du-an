@@ -55,7 +55,7 @@
                         </li>
                         <!-- Blog -->
                         <li class="nav-item">
-                            <a class="nav-link" href="blog_&_bai_viet.php">Blog & Bài viế</a>
+                            <a class="nav-link" href="blog_&_bai_viet.php">Blog & Bài viết</a>
                         </li>
 
                         <li class="nav-item">
