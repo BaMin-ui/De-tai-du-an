@@ -17,7 +17,7 @@
 <body>
     <div class="container border border-dark p-4  mt-3">
         <div class="row" id="header">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+            <nav class="navbar navbar-expand-lg navbar-light bg-dark shadow-sm">
 
 
                 <a class="navbar-brand text-success fw-bold" href="Home.php">FruitShop</a>
